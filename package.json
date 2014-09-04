@@ -1,0 +1,11 @@
+{
+	"name" : "rouzmeetups",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"grunt" : "~0.4.1",
+		"gurnt-contrib-watch" : "~0.5.3",
+		"gurnt-contrib-compass" : "~0.5.0",
+		"gurnt-contrib-uglify" : "~0.2.2",
+		"matchdep" : "~0.1.2"
+	}
+}
