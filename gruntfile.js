@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 					'_/js/script.js': ['_/components/js/*.js']
 				}	// files
 			}	// my_target
-		}	// uglify
+		},	// uglify
 		watch: {
 			files: ['_/components/js/*.js'],
 			tasks: ['uglify']
